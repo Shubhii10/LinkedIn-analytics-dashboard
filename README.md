@@ -1,0 +1,2 @@
+Designed and implemented a responsive LinkedIn Trend Analysis Dash-board with a focus on user experience and data accessibility. Crafted an intuitive layout using CSS and HTML,ensuring seamless navigation and clear presentation of complex data. Incorporated interactive visualizations with
+Plotly, enabling users to explore and analyze trends dynamically. The design prioritized both aesthetic appeal and functional efficiency, resulting in a polished dashboard that effectively communicated key insights while enhancing user engagement.
